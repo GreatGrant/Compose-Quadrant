@@ -4,4 +4,8 @@
     <string name="first_quadrant_body">Displays text and follows the recommended Material Design guidelines.</string>
     <string name="quarant3_title">Row composable</string>
     <string name="quadrant3_body">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="title_4">Image composable</string>
+    <string name="body4">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="title_2">Image composable</string>
+    <string name="body_2">Creates a composable that lays out and draws a given Painter class object.</string>
 </resources>

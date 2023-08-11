@@ -53,8 +53,8 @@ fun ComposeQuadrant() {
             )
 
             QuadrantCard(
-                title = "Image composable",
-                body = "Creates a composable that lays out and draws a given Painter class object.",
+                title = stringResource(R.string.title_2),
+                body = stringResource(R.string.body_2),
                 color = Color(0xFFEADDFF),
                 modifier = Modifier.weight(1f)
             )
@@ -69,8 +69,8 @@ fun ComposeQuadrant() {
             )
 
             QuadrantCard(
-                title = "Image composable",
-                body = "Creates a composable that lays out and draws a given Painter class object.",
+                title = stringResource(R.string.title_4),
+                body = stringResource(R.string.body4),
                 color = Color(0xFFF6EDFF),
                 modifier = Modifier.weight(1f)
             )
